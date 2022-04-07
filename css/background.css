@@ -1,8 +1,0 @@
-#web_bg {
-    /* 背景图地址 */
-    background: url(/img/sky.jpg);
-    /* 平铺 */
-    background-repeat: no-repeat;
-    /* 背景图大小 */
-    background-size: cover;
-}
